@@ -1,0 +1,7 @@
+1) my file path is ~/Desktop/CSI2300/Github/InClassExample-TM-
+2) 
+```{r}
+# sample of size 100
+Y <- rnorm( 100)
+hist( Y)
+```
